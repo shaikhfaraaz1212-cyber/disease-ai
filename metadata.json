@@ -1,0 +1,6 @@
+{
+  "name": "Disease Detector AI",
+  "description": "An AI-powered educational assistant to analyze visible signs of skin or external health concerns, offering informational insights and guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
